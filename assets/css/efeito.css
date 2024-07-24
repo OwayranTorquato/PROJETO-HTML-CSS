@@ -1,0 +1,12 @@
+.card-img-container {
+    perspective: 1000px;
+}
+
+.card-img-container img {
+    transition: transform 0.3s;
+    transform-style: preserve-3d;
+}
+
+.card-img-container:hover img {
+    transform: rotateY(20deg);
+}
