@@ -4,7 +4,7 @@ Este é um projeto de um site de reserva de hotéis desenvolvido utilizando HTML
 
 ## Tecnologias Utilizadas
 
-- **HTML**: Para a estruturação do conteúdo do site.
+- **HTML**: Para a estruturação do conteúdo do site..
 - **CSS**: Para a estilização e layout das páginas.
 - **Bootstrap**: Para facilitar o design responsivo e componentes prontos para uso.
 
