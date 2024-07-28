@@ -1,14 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Ruda:wght@400;500;600;700;800;900&display=swap');
 @import './buttons.css';
 @import './navbar.css';
-@import './background.css';
+@import './backgroud.css';
 @import './inputs.css';
 @import './position.css';
 @import './colors.css';
-@import './efeito.css';
 @import './carousel.css';
-@import './starAvaliation.css';
-
+@import './avaliacoes.css';
+@import './utils.css';
+@import './card.css';
+@import './effectImg.css';
 
 /* Configurações de cores */
 :root {
